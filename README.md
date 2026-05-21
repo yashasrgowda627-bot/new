@@ -547,6 +547,4 @@ const obs=new IntersectionObserver(entries=>{entries.forEach((e,i)=>{if(e.isInte
 revs.forEach(r=>obs.observe(r));
 </script>
 </body>
-</html>
-
-Done: 552 lines
+</html>      
